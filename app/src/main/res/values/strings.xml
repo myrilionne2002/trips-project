@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">TripTravel!</string>
+   
+   
+    <string name="mus_e_d_histoire_de_ouidah">Musée d\'histoire de Ouidah</string>
+   
+    <string name="todo">TODO</string>
+    <string name="ouidah">Ouidah</string>
+    <string name="localiser_ce_lieu_sur_google_maps">Localiser ce Lieu sur Google Maps</string>
+    <string name="jours_de_visites">Jours de visites</string>
+    <string name="collection_c_l_bres">Collection Célèbres</string>
+    <string name="principales_collections">Principales Collections</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="hotels">Hotels</string>
+    <string name="carnet_de_bord">Carnet de bord</string>
+   
+    <string name="plan_de_voyage">Plan De Voyage</string>
+    
+    <string name="recherche_destination">Recherche Destination…</string>
+    <string name="lieux_les_plus_c_l_bres">Lieux Les Plus Célèbres</string>
+    <string name="explorer">Explorer</string>
+    
+    <string name="lieu_incontournable">Lieu Incontournable</string>
+   
+    <string name="pendjari">Pendjari</string>
+    
+    <string name="la_place_nonvitcha">La place nonvitcha</string>
+ 
+    <string name="porto_novo">Porto-Novo</string>
+   
+    <string name="cascades">Cascades</string>
+   
+    <string name="fridjross">Fridjrossè</string>
+  
+    <string name="palais_royaux_d_abomey">Palais Royaux d\'Abomey</string>
+   
+    <string name="_1000_km">1000 km</string>
+    <string name="le_village_lacuste_de_ganvi">le village lacuste de Ganvié</string>
+    <string name="march_anim">Marché Animé</string>
+    <string name="hotel">hotel</string>
+    <string name="api_android">API Android</string>
+    <string name="derni_re_position_connue">Dernière position connue</string>
+    <string name="lat_long">Lat : ? / Long : ?</string>
+    <string name="c_est_o">C\'est où ?</string>
+    <string name="ou_suis_je">Où suis-je ?</string>
+    <string name="lat_long">Lat : ? / Long : ?</string>
+    <string name="suis_moi">Suis moi.</string>
+    <string name="lat_long">Lat : ? / Long : ?</string>
+    <string name="api_google_play_services">API Google Play Services</string>
+    <string name="derni_re_position_connue">Dernière position connue</string>
+    <string name="lat_long">Lat : ? / Long : ?</string>
+    <string name="c_est_oo">C\'est où ?</string>
+    <string name="o_suis_je">Où suis-je ?</string>
+</resources>

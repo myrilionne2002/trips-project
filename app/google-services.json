@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "145378450493",
+    "project_id": "triptravel-260d8",
+    "storage_bucket": "triptravel-260d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145378450493:android:ac0d837b5d6ac710371e54",
+        "android_client_info": {
+          "package_name": "bj.myrilionne2002.triptravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145378450493-8v2tqouam671ubviun4i7f32b7nd9d5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtPBcxBUaHW8kMvn0S8lozJ9xWw7M4eUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145378450493-8v2tqouam671ubviun4i7f32b7nd9d5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

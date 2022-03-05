@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="jours_de_visites">Jours de visites</string>
+    <string name="collection_c_l_bres">Collection Célèbres</string>
+    <string name="principales_collections">Principales Collections</string>
+    <string name="hotels">Hotels</string>
+    <string name="carnet_de_bord">Carnet de bord</string>
+    <string name="todo">TODO</string>
+ 
+    <string name="plan_de_voyage">Plan De Voyage</string>
+    
+    <string name="recherche_destination">Recherche Destination…</string>
+    <string name="lieux_les_plus_c_l_bres">Lieux Les Plus Célèbres</string>
+    <string name="explorer">Explorer</string>
+   
+    <string name="pendjari">Pendjari</string>
+   
+  
+    <string name="palais_royaux_d_abomey">Palais Royaux d\'Abomey</string>
+    <string name="_1000_km">1000 km</string>
+    <string name="le_village_lacuste_de_ganvi">le village lacuste de Ganvié</string>
+    <string name="march_anim">Marché Animé</string>
+    <string name="hotel">hotel</string>
+</resources>
